@@ -1,0 +1,5 @@
+# Site settings
+title: ItechApp
+subtitle: "ItechApp CopyRight"
+url: "https://sofien4387.github.io/PSGPocket/" # the base hostname & protocol for your site
+baseurl: "/"
